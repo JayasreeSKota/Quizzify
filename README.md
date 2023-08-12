@@ -1,5 +1,10 @@
 # Quizzify
 
+![ alt text ](https://img.shields.io/badge/powerapps-blueviolet?logo=powerapps)
+![ alt text ](https://img.shields.io/badge/microsoftsharepoint-turquoise?logo=microsoftsharepoint)
+
+
+
 Welcome to Quizzify! 🎓🤔
 
 Quizzify is an interactive PowerApps quiz app that will put your knowledge to the test. Dive into a world of trivia questions, earn points, and rise through the ranks. 🚀🏆
